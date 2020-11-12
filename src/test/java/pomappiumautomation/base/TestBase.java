@@ -56,7 +56,7 @@ public class TestBase {
                 dc.setCapability(MobileCapabilityType.PLATFORM_NAME, "iOS");
                 dc.setCapability(MobileCapabilityType.PLATFORM_VERSION, "11.0");
                 dc.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
-                dc.setCapability(MobileCapabilityType.APP, "com.google.android.apps.chrome.Main");
+                dc.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
 
                 driver = new IOSDriver<MobileElement>(new URL(loadProperty().getProperty("appiumUrl")), dc);
 

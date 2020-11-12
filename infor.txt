@@ -1,0 +1,10 @@
+Nov 10 17:16:58 HMBPro6 assistantd[3059]: BUG in libdispatch: 19H15 15A8401 - 2537 - 0x0
+Nov 10 17:16:58 HMBPro6 logd[2978]: No userlevel firehose clients left
+Nov 10 17:16:58 HMBPro6 logd[3067]: No userlevel firehose clients left
+Nov 10 17:18:38 HMBPro6 com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0000-0000-0000-000000000000[2850]): Service exited due to SIGKILL | sent by mds[131]
+Nov 10 17:18:38 HMBPro6 syslogd[106]: ASL Sender Statistics
+Nov 10 17:19:25 HMBPro6 com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3134]): Service exited due to SIGKILL | sent by mds[131]
+Nov 10 17:19:32 HMBPro6 com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0300-0000-0000-000000000000[3131]): Service exited due to SIGKILL | sent by mds[131]
+Nov 10 17:19:32 HMBPro6 com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0F000000-0700-0000-0000-000000000000[3132]): Service exited due to SIGKILL | sent by mds[131]
+Nov 10 17:19:48 HMBPro6 com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.simulator-trampoline.3141): Failed to bootstrap path: path = /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Resources/simulator-trampoline, error = 2: No such file or directory
+Nov 10 17:20:24 HMBPro6 com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3138]): Service exited due to SIGKILL | sent by mds[131]

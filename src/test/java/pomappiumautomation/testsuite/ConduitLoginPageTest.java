@@ -4,10 +4,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pomappiumautomation.base.TestBase;
-import pomappiumautomation.page.ChromePage;
-import pomappiumautomation.page.ConduitHomePage;
-import pomappiumautomation.page.ConduitLoginPage;
-import pomappiumautomation.page.ConduitNewPostPage;
+import pomappiumautomation.page.*;
 
 import static org.testng.Assert.*;
 

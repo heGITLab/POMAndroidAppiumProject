@@ -33,15 +33,16 @@ public class ChromePage extends TestBase {
     }
 
     public static void validateChromeInit() {
+        BasicCommands.waite(By.id(chromeTermAcceptId), Utilities.DRWAIT_10SE);
         BasicCommands.click(getChromeTermAccept());
         BasicCommands.waite(By.id(chromeDataSaverNextButtonId), Utilities.DRWAIT_10SE);
         BasicCommands.click(getChromeDataSaverNextButton());
         BasicCommands.waite(By.id(chromeSignInNoThanksId), Utilities.DRWAIT_10SE);
         BasicCommands.click(getchromeSignInNoThanks());
         BasicCommands.waite(By.id(chromeSearchBoxId), Utilities.DRWAIT_10SE);
-        BasicCommands.type(getChromeSearchBox(),"https://react-redux.realworld.io/#/login");
-        ((AndroidDriver)loadDriver()).pressKey(new KeyEvent(AndroidKey.ENTER));
-        BasicCommands.waite(By.xpath(ConduitLoginPage.conduitLabelXpath), Utilities.DRWAIT_10SE);
+        BasicCommands.type(getChromeSearchBox(), "https://react-redux.realworld.io/#/login");
+        ((AndroidDriver) loadDriver()).pressKey(new KeyEvent(AndroidKey.ENTER));
+        BasicCommands.waite(By.xpath(ConduitLoginPage.conduitAndroidLabelXpath), Utilities.DRWAIT_10SE);
     }
 
 
