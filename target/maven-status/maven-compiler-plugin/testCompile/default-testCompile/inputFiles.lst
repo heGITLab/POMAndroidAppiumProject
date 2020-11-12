@@ -1,1 +1,15 @@
-/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/AppiumAutomationMain/AppiumScript1.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/AppiumAutomationMain/AppiumScriptAndroid.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/page/SafariPage.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/base/TestBase.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/page/ConduitHomePage.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/AppiumAutomationMain/AppiumScriptIOS.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/testcase/ChromePageTest.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/testcase/ConduitNewPostPageTest.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/page/ConduitLoginPage.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/testcase/ConduitLoginPageTest.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/datareader/Reader.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/Util/Utilities.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/commands/BasicCommands.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/page/ChromePage.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/page/ConduitNewPostPage.java
+/Users/harindaekanayake/IdeaProjects/AndroidAppiumProject/src/test/java/pomappiumautomation/testcase/SafariPageTest.java

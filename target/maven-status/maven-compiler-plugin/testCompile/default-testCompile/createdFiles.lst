@@ -1,0 +1,16 @@
+AppiumAutomationMain/AppiumScriptIOS.class
+pomappiumautomation/page/ConduitHomePage.class
+pomappiumautomation/testcase/ChromePageTest.class
+pomappiumautomation/page/ConduitLoginPage.class
+pomappiumautomation/testcase/ConduitLoginPageTest.class
+pomappiumautomation/testcase/SafariPageTest.class
+pomappiumautomation/datareader/Reader$1.class
+pomappiumautomation/commands/BasicCommands.class
+pomappiumautomation/base/TestBase.class
+pomappiumautomation/page/ConduitNewPostPage.class
+pomappiumautomation/testcase/ConduitNewPostPageTest.class
+AppiumAutomationMain/AppiumScriptAndroid.class
+pomappiumautomation/Util/Utilities.class
+pomappiumautomation/datareader/Reader.class
+pomappiumautomation/page/ChromePage.class
+pomappiumautomation/page/SafariPage.class

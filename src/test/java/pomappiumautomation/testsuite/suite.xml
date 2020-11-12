@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="appiumSuite">
+    <test name="appiumTest">
+        <classes>
+<!--            <class name="pomappiumautomation.testcase.ChromePageTest"/>-->
+<!--            <class name="pomappiumautomation.testcase.ConduitLoginPageTest"/>-->
+            <class name="pomappiumautomation.testcase.ConduitNewPostPageTest"/>
+<!--            <class name="pomappiumautomation.testcase.ChromePageTest"/>-->
+        </classes>
+    </test>
+</suite>

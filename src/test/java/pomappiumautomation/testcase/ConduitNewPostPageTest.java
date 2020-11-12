@@ -1,10 +1,7 @@
-package pomappiumautomation.testsuite;
+package pomappiumautomation.testcase;
 
-import org.openqa.selenium.By;
 import org.testng.annotations.*;
-import pomappiumautomation.Util.Utilities;
 import pomappiumautomation.base.TestBase;
-import pomappiumautomation.commands.BasicCommands;
 import pomappiumautomation.datareader.Reader;
 import pomappiumautomation.page.ChromePage;
 import pomappiumautomation.page.ConduitHomePage;

@@ -1,10 +1,9 @@
-package pomappiumautomation.testsuite;
+package pomappiumautomation.testcase;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pomappiumautomation.base.TestBase;
-import pomappiumautomation.page.ConduitLoginPage;
 import pomappiumautomation.page.SafariPage;
 
 import static org.testng.Assert.assertEquals;

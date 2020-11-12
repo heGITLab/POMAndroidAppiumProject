@@ -1,14 +1,15 @@
-package pomappiumautomation.testsuite;
+package pomappiumautomation.testcase;
 
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import pomappiumautomation.base.TestBase;
-import pomappiumautomation.page.*;
+import pomappiumautomation.page.ChromePage;
+import pomappiumautomation.page.ConduitLoginPage;
 
 import static org.testng.Assert.*;
 
-public class ConduitLoginPageTest extends TestBase {
+public class ChromePageTest extends TestBase {
 
     @BeforeTest
     public void setUp() {
@@ -17,11 +18,9 @@ public class ConduitLoginPageTest extends TestBase {
     }
 
     @Test
-    public void verifyConduitLogin() {
+    public void verifyChromeInit() {
         ChromePage.validateChromeInit();
-        ConduitLoginPage.validateConduitLogin();
-        assertEquals(ConduitHomePage.getConduitYourFeed().getText(),"Your Feed");
-        assertEquals(ConduitHomePage.getConduitGlobalFeed().getText(),"Global Feed");
+        assertEquals(ConduitLoginPage.getConduitLabelXpath().getText(), "conduit");
     }
 
     @AfterTest
